@@ -1,0 +1,178 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Escapade relaxante à Gdansk : Histoire et brise baltique",
+  "budget_total": "728€",
+  "duree": "4 jours",
+  "temps_vol": "2h10 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et charme de la Vieille Ville",
+      "legende": "Après un vol direct et confortable depuis Paris, installez-vous tranquillement dans votre hôtel. Plongez ensuite dans l'atmosphère médiévale et colorée de la Vieille Ville de Gdansk, en vous laissant porter par ses ruelles pavées et son architecture unique. Une balade douce le long de la Motlawa conclura cette première journée en douceur.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛬 Arrivée à Gdansk</strong>: Transfert et installation à l'hôtel pour débuter le séjour sans stress.",
+        "<strong>🚶‍♂️ Balade relaxante dans la Vieille Ville</strong>: Découvrez le Long Marché, la Fontaine de Neptune et les façades colorées, une immersion immédiate dans l'histoire.",
+        "<strong>🍽️ Dîner au bord de la Motlawa</strong>: Savourez la cuisine locale dans un cadre pittoresque, avec vue sur les grues médiévales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Gdańsk Lech Wałęsa, Gdańsk",
+          "categorie": "Aéroport",
+          "coords": { "lat": 54.3776, "lng": 18.4662 }
+        },
+        {
+          "nom_recherche": "Long Marché, Gdańsk",
+          "categorie": "Rue historique",
+          "coords": { "lat": 54.3496, "lng": 18.6496 }
+        },
+        {
+          "nom_recherche": "Fontaine de Neptune, Gdańsk",
+          "categorie": "Monument",
+          "coords": { "lat": 54.3495, "lng": 18.6495 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre-ville de Gdansk est facilement accessible depuis l'aéroport en bus ou en train local (SKM), comptez environ 30-40 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⚓",
+      "titre": "Histoire maritime et sérénité fluviale",
+      "legende": "Cette journée est dédiée à l'exploration du riche passé maritime de Gdansk, une ville portuaire emblématique. Visitez des musées captivants qui racontent des siècles d'échanges et de batailles. L'après-midi, offrez-vous une croisière paisible sur la Motlawa, admirant la ville sous un angle différent et relaxant, loin de l'agitation des rues.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🏛️ Visite du Musée Maritime National</strong>: Plongez dans l'histoire navale de la Pologne et de la Baltique, une collection fascinante.",
+        "<strong>🚢 Croisière relaxante sur la Motlawa</strong>: Laissez-vous glisser sur l'eau pour admirer les monuments historiques et les grues médiévales depuis le fleuve.",
+        "<strong>🚶‍♀️ Promenade sur l'île aux Greniers (Ołowianka)</strong>: Découvrez ce quartier en pleine renaissance, mêlant histoire et modernité, idéal pour une balade tranquille."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée Maritime National, Gdańsk",
+          "categorie": "Musée",
+          "coords": { "lat": 54.3503, "lng": 18.6570 }
+        },
+        {
+          "nom_recherche": "Motlawa River, Gdańsk",
+          "categorie": "Fleuve",
+          "coords": { "lat": 54.3500, "lng": 18.6550 }
+        },
+        {
+          "nom_recherche": "Ołowianka, Gdańsk",
+          "categorie": "Île",
+          "coords": { "lat": 54.3520, "lng": 18.6590 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚓",
+          "titre": "Astuce",
+          "texte": "De nombreuses compagnies proposent des croisières sur la Motlawa, certaines avec des bateaux stylisés comme des galions. Renseignez-vous sur place pour les horaires."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏖️",
+      "titre": "Trésors d'ambre et brise marine à Sopot",
+      "legende": "Commencez la journée en explorant le fascinant Musée de l'Ambre, où vous découvrirez l'histoire et la beauté de cette \"pierre\" emblématique de la Baltique. L'après-midi, évadez-vous vers la charmante station balnéaire de Sopot, pour une balade revigorante sur sa célèbre jetée en bois et une détente bien méritée sur la plage.",
+      "lieu": "Gdansk / Sopot",
+      "activites": [
+        "<strong>💎 Visite du Musée de l'Ambre</strong>: Admirez des pièces d'ambre uniques et apprenez-en plus sur son extraction et son artisanat, un véritable trésor local.",
+        "<strong>🚌 Excursion relaxante à Sopot</strong>: Prenez le train local pour une escapade rapide vers cette élégante ville côtière, réputée pour son ambiance chic et décontractée.",
+        "<strong>🌊 Balade sur la plage et la jetée de Sopot</strong>: Profitez de l'air marin, marchez sur la plus longue jetée en bois d'Europe et détendez-vous au bord de la mer Baltique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée de l'Ambre, Gdańsk",
+          "categorie": "Musée",
+          "coords": { "lat": 54.3502, "lng": 18.6475 }
+        },
+        {
+          "nom_recherche": "Sopot Pier, Sopot",
+          "categorie": "Jetée",
+          "coords": { "lat": 54.4445, "lng": 18.5750 }
+        },
+        {
+          "nom_recherche": "Plage de Sopot, Sopot",
+          "categorie": "Plage",
+          "coords": { "lat": 54.4450, "lng": 18.5700 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚆",
+          "titre": "Transport",
+          "texte": "Sopot est très bien desservie par le train de banlieue SKM depuis Gdansk. Le trajet est rapide (environ 20 minutes) et très pratique."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Douce matinée et envol",
+      "legende": "Profitez de cette dernière matinée pour flâner une dernière fois dans les rues de Gdansk, acheter quelques souvenirs artisanaux ou savourer un dernier café polonais. C'est l'occasion de revisiter un lieu coup de cœur ou de découvrir un petit coin que vous auriez manqué. Ensuite, il sera temps de rejoindre l'aéroport pour votre vol retour vers Paris, la tête pleine de beaux souvenirs.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs au Marché Long</strong>: Trouvez des objets en ambre, des poteries ou des spécialités locales pour prolonger le voyage.",
+        "<strong>☕ Café et pâtisserie polonaise</strong>: Offrez-vous un dernier moment de gourmandise dans un café typique, une tradition locale à ne pas manquer.",
+        "<strong>🛫 Transfert à l'aéroport et départ</strong>: Prévoyez suffisamment de temps pour le trajet et les formalités avant votre vol retour."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Long Marché, Gdańsk",
+          "categorie": "Rue historique",
+          "coords": { "lat": 54.3496, "lng": 18.6496 }
+        },
+        {
+          "nom_recherche": "Aéroport de Gdańsk Lech Wałęsa, Gdańsk",
+          "categorie": "Aéroport",
+          "coords": { "lat": 54.3776, "lng": 18.4662 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Vérifiez les horaires des transports en commun pour l'aéroport la veille de votre départ afin d'éviter tout stress inutile."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "198 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "~30 €/pers (transports locaux, SKM)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "~240 €/pers (3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "~210 €/pers (3 nuits en hôtel 3* base 1 pers)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "~50 €/pers (musées, croisière, jetée)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Printemps et début d'automne pour un climat doux et moins de foule.", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Zloty polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La langue officielle est le polonais. L'anglais est parlé dans les zones touristiques et les hôtels.", "symbole": "🗣️" },
+    { "titre": "Le climat en mai est généralement doux (10-20°C), mais peut être variable. Prévoyez des couches de vêtements et un imperméable léger.", "symbole": "🌦️" },
+    { "titre": "Le réseau de transports en commun (bus, tram, SKM) est efficace et économique pour se déplacer dans Gdansk et ses environs.", "symbole": "🚌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-GDN/2026-05-22/2026-05-26", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Gdansk", "url": "https://www.gdansk.pl/en/tourist", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "ZTM Gdansk (transports locaux)", "url": "https://ztm.gda.pl/en/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Gdansk", "url": "https://www.meteo.pl/en/weather-forecast-gdansk", "symbole": "🌤️" }
+  ]
+}
